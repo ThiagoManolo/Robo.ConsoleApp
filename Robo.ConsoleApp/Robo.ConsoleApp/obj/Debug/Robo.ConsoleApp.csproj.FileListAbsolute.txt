@@ -1,0 +1,7 @@
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\obj\Debug\Robo.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\obj\Debug\Robo.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\bin\Debug\Robo.ConsoleApp.exe.config
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\bin\Debug\Robo.ConsoleApp.exe
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\bin\Debug\Robo.ConsoleApp.pdb
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\obj\Debug\Robo.ConsoleApp.exe
+C:\Users\thiag\source\repos\Robo\Robo.ConsoleApp\obj\Debug\Robo.ConsoleApp.pdb
