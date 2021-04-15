@@ -1,0 +1,2 @@
+C:\Users\thiag\source\repos\teste\teste.ConsoleApp\obj\Debug\teste.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\thiag\source\repos\teste\teste.ConsoleApp\obj\Debug\teste.ConsoleApp.csproj.CoreCompileInputs.cache
